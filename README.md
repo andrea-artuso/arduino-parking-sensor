@@ -1,6 +1,6 @@
 # **Arduino Parking Sensor**
 
-## Components used:
+### Components used:
 - **Arduino xx board**
 - **2 HC-SR04 Ultrasonic sensors**
 - **3 led**
