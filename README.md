@@ -24,10 +24,10 @@ The sensors read the distance from the closest object and they return it to the 
 > **Outputs**:
 > | Distance (d) | LED | Buzzer |
 > | :------ | :------ | :------ |
-> | > 3 meters | No output | No output |
-> | 3 m < d < 2 m | Green led (fix) | 1 Beep / 2 seconds
-> | 2 m < d < 1 m | Yellow led (fix) | 1 Beep / 1 seconds
-> | 1 m < d < 20 cm | Red led (fix) | 1 Beep / 0.5 seconds
+> | > 1.5 meters | No output | No output |
+> | 1.5 m < d < 1 m | Green led (fix) | 1 Beep / 2 seconds
+> | 1 m < d < 50 cm | Yellow led (fix) | 1 Beep / 1 seconds
+> | 50 cm < d < 20 cm | Red led (fix) | 1 Beep / 0.5 seconds
 > | < 20 cm | Red led (blinking) | Continuous beep
 
 ### **How to use the code:**
