@@ -36,10 +36,10 @@ The sensors read the distance from the closest object and they return it to the 
 3. Enter the **src** folder and open the **.ino** file with Arduino IDE ([How to install Arduino IDE](https://docs.arduino.cc/software/ide-v1/tutorials/Windows))
 4. Connect your Arduino board to your pc and **Load the sketch**
 
-### **Wiring diagram:**
-![wiring diagram](./media/Arduino%20parking%20sensors.jpg)
-
 ### **How to change distance values:**
 1. Go to the *.ino* file inside the **/src** folder
 2. In the first part, edit the **constants** called *DISTANCE_X* according to your necessities
 3. Compile and upload the sketch to your Arduino board 
+
+### **Wiring diagram:**
+![wiring diagram](./media/Arduino%20parking%20sensors.jpg)
