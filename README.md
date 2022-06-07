@@ -38,3 +38,8 @@ The sensors read the distance from the closest object and they return it to the 
 
 ### **Wiring diagram:**
 ![wiring diagram](./media/Arduino%20parking%20sensors.jpg)
+
+### **How to change distance values:**
+1. Go to the *.ino* file inside the **/src** folder
+2. In the first part, edit the **constants** called *DISTANCE_X* according to your necessities
+3. Compile and upload the sketch to your Arduino board 
