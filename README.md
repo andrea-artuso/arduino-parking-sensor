@@ -30,7 +30,7 @@ The sensors read the distance from the closest object and they return it to the 
 ### **How to use the code:**
 1. Download the zipped with the **Code** menu or by clicking [this link](https://github.com/andrea-artuso/arduino-parking-sensor/archive/refs/heads/main.zip).
 2. Extract the file in any folder of your computer
-3. Enter the **src** folder and open the **.ino** file with Arduino IDE ([How to install Arduino IDE](https://docs.arduino.cc/software/ide-v1/tutorials/Windows))
+3. Enter into the **src** folder and open the **.ino** file with Arduino IDE ([How to install Arduino IDE](https://docs.arduino.cc/software/ide-v1/tutorials/Windows))
 4. Connect your Arduino board to your pc and **Load the sketch**
 
 ### **How to change distance values:**
